@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1583758148 source:c:\users\user\desktop\taskone\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<bitset>
+
+1585261435 source:c:\users\user\desktop\last term\security\sec-a1-20166043.zip\taskone\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<bitset>
+
